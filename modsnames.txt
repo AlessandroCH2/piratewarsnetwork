@@ -1,0 +1,4 @@
+PirateWarsRSounds.jar
+VoiceChat.jar
+mcef.jar
+modularwarfare.jar
